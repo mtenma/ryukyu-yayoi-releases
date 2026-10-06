@@ -20,4 +20,4 @@ macOS 14 以降。Apple シリコンと Intel の Mac で動きます。
 ## 中身
 
 アプリには、仕訳確認のプログラムと Python が入っています。会計データ・写真は入っていません。
-Python の利用条件は、アプリの中の `Contents/Resources/Pythonの利用条件/` にあります。
+Python の利用条件は、アプリの中の `Contents/Resources/python-licenses/` にあります。
